@@ -1,3 +1,7 @@
 # CyanCSS
 Commonly used css style in project
-> npm i cyan-css
+
+## 使用 npm 安装
+```
+npm install cyan-cs
+```
