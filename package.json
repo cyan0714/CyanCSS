@@ -1,6 +1,6 @@
 {
   "name": "cyan-css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Commonly used CSS style in project",
   "main": "index.css",
   "scripts": {
